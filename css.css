@@ -1,7 +1,8 @@
 body{background-color: blue; }
 h1{outline-color: purple; }
+h1{outline-style: dashed; }
 p{color: yellow; }
 img{
 	width: 250px;
 	height: 250px;
-border-radius: 90%;}
+border-radius: 150px;}
