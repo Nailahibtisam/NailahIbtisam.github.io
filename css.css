@@ -1,6 +1,6 @@
-body{background-color: blue}
-h1{outline-color: purple}
-p{background-color: yellow}
+body{background-color: blue; }
+h1{outline-color: purple; }
+p{color: yellow; }
 img{
 	width: 250px;
 	height: 250px;
